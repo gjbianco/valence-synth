@@ -1,4 +1,10 @@
-// light_theremin.ino
+/*
+    valence synth
+    
+        by Guy Bianco
+
+    originally based off of light_theremin.ino and other examples
+*/
 
 int sensorHigh = 0;
 int sensorLow  = 1023;
